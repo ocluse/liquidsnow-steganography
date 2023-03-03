@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocluse.LiquidSnow.Steganography", "src\Ocluse.LiquidSnow.Steganography.csproj", "{C58DAC4E-0956-4F2C-9D2E-FC1781E6F542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58DAC4E-0956-4F2C-9D2E-FC1781E6F542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58DAC4E-0956-4F2C-9D2E-FC1781E6F542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58DAC4E-0956-4F2C-9D2E-FC1781E6F542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58DAC4E-0956-4F2C-9D2E-FC1781E6F542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44FC4D85-910F-4D03-A0C6-E0F6F56CC673}
+	EndGlobalSection
+EndGlobal
